@@ -1,6 +1,5 @@
-# Jukebox Mini
-
-You've been hired to create the backend for a digital music service. The team's still working on getting access to tracks, but for now, you can get started on the playlist functionality.
+# Block 36 PostgreSQL, Workshop: Jukebox Mini
+Create the backend for a digital music service with playlist functionality, a Postgres database, and initialize it with Prisma 
 
 ## Database
 
